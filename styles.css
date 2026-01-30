@@ -41,7 +41,7 @@ label {
   color: gold;
 }
 tr:nth-child(even) {
-  background-color: grey;
+  background-color: lightgrey;
 }
 
 table {
